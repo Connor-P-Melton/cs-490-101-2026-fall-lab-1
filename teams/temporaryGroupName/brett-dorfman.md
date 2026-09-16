@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Brett Dorfman
 
 ## Favorite Technology
 
-VS Code
+Speakers
 
 ## Non-technical Hobby
 
 - Skiing
-- Running, Swimming, Biking
-- Gaming
+- Eating Yummy Foods
+- Sleeping
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Teen Titans Go!
