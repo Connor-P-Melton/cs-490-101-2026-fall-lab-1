@@ -14,4 +14,3 @@ Jane Doe
 - John Smith
 - Alice Johnson
 - Bob Williams
-- Lorenzo Pucciarelli
